@@ -35,3 +35,14 @@ This project recommends similar restaurants based on user preferences using a **
 
 ## ✅ Sample Output
 
+Top 5 recommendations for Domino's Pizza:
+
+Naivedya | Cuisines: North Indian | Rating: 3.4
+
+Bhoj Restaurant | Cuisines: North Indian | Rating: 3.7
+
+Kareem's Kabab & Biryani | Cuisines: Mughlai | Rating: 3.4
+
+Angeethi Restaurant | Cuisines: North Indian, Chinese | Rating: 3.3
+
+Great Sagar Restaurant | Cuisines: North Indian, Mughlai | Rating: 3.3
